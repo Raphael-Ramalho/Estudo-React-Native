@@ -1,2 +1,2 @@
 # React-Native
-Studies related to react native
+Estudos relacionados à React Native
